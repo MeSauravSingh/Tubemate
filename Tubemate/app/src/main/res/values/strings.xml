@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tubemate</string>
+    <string name="title_activity_main">Tubemate</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Tubemate</string>
+    <string name="full_screen_fragment_label">Fullscreen</string>
+</resources>
